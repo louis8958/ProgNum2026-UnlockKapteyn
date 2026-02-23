@@ -46,4 +46,4 @@ In this repository,
 
 * Submit the link of this repository to BrightSpace midterm submission: https://brightspace.rug.nl/d2l/le/lessons/457626/topics/5517350
 
-* $\color{Red}\textsf{Weblink format: https://github.com/username/ProgNum2026-UnlockKapteyn}$
+* $\color{Red}\textsf{Weblink format: https://github.com/username/ProgNum2026-UnlockKapteyn }$
